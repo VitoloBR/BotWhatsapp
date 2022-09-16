@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QzW6JfkzYvcKUmdb/gMbJX2dSQH5RvJ2ZeLNh6kwJ5MLWP6DoKqE3EcvH5+KzIkSELUVGuYgL87aECr4KDEWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius Vitolo\\Desktop\\Projetos estudos\\repos\\ws-VS2022\\Projetos\\Bot\\Bot\\Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius Vitolo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Vinicius Vitolo\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\Vinicius Vitolo\\.nuget\\packages\\selenium.webdriver.chromedriver\\104.0.5112.2900\\selenium.webdriver.chromedriver.104.0.5112.2900.nupkg.sha512"
+  ],
+  "logs": []
+}
